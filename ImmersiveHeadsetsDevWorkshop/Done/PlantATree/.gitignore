@@ -1,0 +1,10 @@
+.vs
+/*.sln
+/*.csproj
+/Library
+/Temp
+/UnityPackageManager
+/obj
+/QCAR
+/App
+/Application
